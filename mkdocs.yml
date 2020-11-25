@@ -1,0 +1,8 @@
+site_name: "AO"
+site_description: "another test docs"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

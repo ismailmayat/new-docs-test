@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "AO"
+  description: "another test docs"
+  annotations:
+    github.com/project-slug: "ismailmayat/new-docs-test"
+    backstage.io/techdocs-ref: github:https://github.com/ismailmayat/new-docs-test
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "AO"
